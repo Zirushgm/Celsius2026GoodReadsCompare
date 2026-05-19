@@ -7,4 +7,4 @@ La pagina compara los autores de tu biblioteca de Goodreads con los asistentes a
 
 Bastante Vibe Coding pero para lo que es tampoco me iba a matar.
 
-Los autores se irán actualizando a medida que se anuncien (Y me entere de que se anuncien)
+Los autores se irán actualizando a medida que se anuncien (Y me entere de que se anuncian)
